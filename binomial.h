@@ -26,6 +26,5 @@ class Binomial {
    double GetCoefficient (int idx) const;
 
     
-}
-;
+};
 #endif
